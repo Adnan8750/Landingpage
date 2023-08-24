@@ -1,0 +1,207 @@
+.mainback{
+    background-color: rgb(81, 4, 81);
+    height: 100vh;
+    width: 100vw;
+    border: 1px solid transparent;
+    border-radius:10px
+}
+.back-up{
+    background-color:rgb(58, 2, 58); 
+    height: 35px;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+   color: white;
+   font-size: 50px;
+   display: flex;
+   text-align: start;
+   justify-content: flex-start;
+   
+}
+
+.navbar{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    position: absolute;
+    top: -70px;
+    left: 20px;
+
+
+}
+
+.icon{
+   position: absolute;
+   top: 60px;
+   left: 50px;
+   font-size: 25px;
+   color: white;
+}
+
+.button1{
+    position: absolute;
+    right: 20px;
+    top: 70px;
+    background-color:rgb(242, 14, 242);
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+}
+
+.container{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+    padding: 10px;
+    line-height: normal;
+}
+
+.contant1{
+    
+}
+
+.contant2{
+    font-size: 16px;
+    position:absolute;
+    bottom: 20px;
+}
+
+.in-mail{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 33px;
+    width: 250px;
+    position: absolute;
+    
+    
+}
+.in-mail:hover{
+    border: 2px solid orange;
+}
+
+.button2{
+    height: 40px;
+    width: 100px;
+    border:1px solid black;
+    border-radius: 5px;
+    position: absolute;
+   left: 300px;
+}
+
+.button2:hover{
+    background-color: palegreen;
+  
+   
+}
+
+.box{
+   position: absolute;
+   left: 40px;
+   height: 70px;
+   width: 210px;
+   bottom: 10px;
+   display: flex;
+
+
+}
+
+.box1{
+    background-color: rgb(225, 14, 225);
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    bottom: 10px;
+    border-radius: 100px;  
+}
+
+.box2{
+    background-color: rgb(103, 7, 103);
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    bottom: 10px;
+    margin-left: 30px;
+    border-radius: 100px;   
+}
+
+.box3{
+    background-color: rgb(159, 153, 159);
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    bottom: 10px;
+    margin-left: 50px;
+    border-radius: 100px;
+
+}
+
+i{
+    
+    /* position: absolute;
+    bottom: px;
+    left: 40px; */
+    font-size: 20px;
+    color: yellow;
+
+    
+} 
+
+.review{
+    height: 100%;
+    width: 100%;  
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 150px;
+    bottom: 30px;
+    
+}
+
+.happy{
+    
+   
+}   
+
+.happy2{
+   
+    position: absolute;
+    /* bottom: -15px; */
+    left: 25px;
+    top: 24px;
+}
+
+.design{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(235, 13, 165);
+    position: absolute;
+    right: 40px;
+    bottom: 80px;
+    border-radius: 10px;
+    color: white;
+}
+
+.outer-design{
+    height: 300px;
+    width: 300px;
+    background-color:rgb(235, 13, 165) ;
+    border-radius: 30px;
+    transform: rotate(45deg);
+    position: relative;
+    bottom: 30px;
+}
+
+.hero{
+    transform: rotate(-45deg);
+    color: black;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+}
+.hero2{
+    font-size:16px
+}
+
+
